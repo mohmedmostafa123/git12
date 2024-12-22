@@ -1,1 +1,1 @@
-print("messi and cR7")
+print("Messi and cR7")
